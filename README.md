@@ -1,4 +1,5 @@
-# Vue Router learning project
+# Vue Travel App
+## Vue Router Exercise based on Vue School course: Vue Router for Everyone: https://vueschool.io/courses/vue-router-for-everyone
 
 ## Project setup
 ```

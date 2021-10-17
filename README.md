@@ -1,4 +1,5 @@
-# vue-travel-app
+# Vue Travel App
+## Vue Router Exercise based on Vue School course: Vue Router for Everyone: https://vueschool.io/courses/vue-router-for-everyone
 
 ## Project setup
 ```
@@ -22,3 +23,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
